@@ -44,14 +44,14 @@ The objective of this assignment is to build a machine learning model to detect 
    - Consider issues like false positives/negatives, privacy concerns, and potential biases in your model.
 
 ### 6. **Documentation and Reporting**
-   - **Task 7.1:** **Write a Comprehensive Report**
+   - **Task 6.1:** **Write a Comprehensive Report**
      - Document your entire process, from data exploration to model deployment.
      - Include visuals, model performance metrics, and interpretations of the results.
 
 ### 7. **Advanced (Optional)**
-   - **Task 8.1:** **Use Deep Learning**
+   - **Task 7.1:** **Use Deep Learning**
      - Explore deep learning techniques using TensorFlow or PyTorch to detect fraud.
-   - **Task 8.2:** **Time Series Analysis**
+   - **Task 7.2:** **Time Series Analysis**
      - Consider treating the transaction data as a time series and explore models like LSTM for fraud detection.
 
 ### **Submission Guidelines:**
