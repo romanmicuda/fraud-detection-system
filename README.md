@@ -36,13 +36,12 @@ The objective of this assignment is to build a machine learning model to detect 
      - Discuss the model's performance, especially focusing on the trade-offs between precision and recall in the context of fraud detection.
 
 ### 4. **Model Tuning**
-     - Implement techniques like oversampling (SMOTE) or undersampling to address class imbalance.
-     - Explore cost-sensitive learning methods.
+   - Implement techniques like oversampling (SMOTE) or undersampling to address class imbalance.
+   - Explore cost-sensitive learning methods.
 
 ### 5. **Ethical Considerations**
-   - **Task 6.1:** **Discuss Ethical Implications**
-     - Write a short report discussing the ethical considerations of fraud detection.
-     - Consider issues like false positives/negatives, privacy concerns, and potential biases in your model.
+   - Write a short report discussing the ethical considerations of fraud detection.
+   - Consider issues like false positives/negatives, privacy concerns, and potential biases in your model.
 
 ### 6. **Documentation and Reporting**
    - **Task 7.1:** **Write a Comprehensive Report**
